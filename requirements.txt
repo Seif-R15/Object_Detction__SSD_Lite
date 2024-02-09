@@ -1,7 +1,9 @@
-mss==7.0.1
-opencv_python==4.6.0.66
-Pillow==10.2.0
+numpy~=1.21.2
+streamlit~=0.87.0
+keras~=2.4.3
+opencv_python~=4.6.0.66
+Pillow~=10.2.0
 opencv-contrib-python-headless
 streamlit_webrtc
-streamlit==1.31.0
-vision==1.0.0
+vision~=1.0.0
+setuptools~=66.0.0
