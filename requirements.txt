@@ -5,5 +5,8 @@ opencv_python~=4.6.0.66
 Pillow~=10.2.0
 opencv-contrib-python-headless
 streamlit_webrtc
-vision~=1.0.0
+python-dev
 setuptools~=66.0.0
+vision~=1.0.0
+
+
