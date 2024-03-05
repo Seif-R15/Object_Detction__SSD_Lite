@@ -22,7 +22,7 @@ This project provides a simple and efficient way to perform object detection usi
 
 # Usage
 
-To run the code, use the following command:
+To run the code, use the following command on CMD or Anaconda Prompt:
 
 `Live_Detection_Positioning_Streaming.py <net type> <model path> <label path> [video file]`
 
