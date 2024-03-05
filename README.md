@@ -1,5 +1,8 @@
 # Object Detection with Single Shot Detector (SSD)
 
+[![Video Title](ODai_LinkedIN.gif)]
+
+
 This is a Python project that uses a pre-trained SSD model to detect and label objects in a video stream or from a video file. The code supports different types of SSD models, including VGG16, MobileNetv1, MobileNetv1 lite, MobileNetv2 lite, MobileNetv3 large lite, and SqueezeNet lite. The model is loaded from a specified path, and the labels for the detected objects are loaded from a separate file.
 
 The code captures video input from either a camera or file, and then processes the frames to detect objects using the SSD model. The detected objects are then labeled with their corresponding class names and confidence scores. The code also draws bounding boxes around the detected objects. Additionally, it calculates the frames per second (FPS) and displays it on the output frame.
