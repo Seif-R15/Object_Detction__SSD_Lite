@@ -19,7 +19,7 @@ This project provides a simple and efficient way to perform object detection usi
 - OpenCV
 - NumPy
 - PySerial (Optional)
-- firebase_admin(Optional)
+- Firebase_admin(Optional)
 
 # Usage
 
