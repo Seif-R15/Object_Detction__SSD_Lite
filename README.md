@@ -15,21 +15,19 @@ This project provides a simple and efficient way to perform object detection usi
 
 # Requirements
 
-- Python 3.x
+- Python 3.7 or newer versions
 - OpenCV
 - NumPy
-- PIL
-- Mss
+- PySerial (Optional)
 
 # Usage
 
 To run the code, use the following command:
 
-`Live_Detection_Positioning_Streaming
-.py <net type> <model path> <label path> [video file]`
+`Live_Detection_Positioning_Streaming.py <net type> <model path> <label path> [video file]`
 
 where <net type> is the type of SSD model to use (vgg16-ssd, mb1-ssd, mb1-ssd-lite, mb2-ssd-lite, mb3-large-ssd-lite, or sq-ssd-lite), <model path> is the path to the pre-trained model file, <label path> is the path to the label file, and [video file] (optional) is the path to the video file to process. If no video file is specified, the code will capture input from the camera.
 
 # Acknowledgements
   
-This project is based on the SSD implementation in PyTorch by Max deGroot and Ellis Brown. The code is modified to use OpenCV and other libraries to perform object detection in real-time.
+This project is based on the SSD implementation in PyTorch by Max deGroot and Ellis Brown. The code is modified to use OpenCV and other libraries to perform object detection in real time.
