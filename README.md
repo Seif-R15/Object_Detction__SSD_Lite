@@ -23,7 +23,7 @@ This project provides a simple and efficient way to perform object detection usi
 
 # Training your own model
 
-For training your own model you can run the SSD_Train.py on Spyder or on the CMD terminal however you should update the data fitted to the train based on your objectives.
+For training your own model you can run the 'SSD_Train.py' on 'Spyder' or on the 'CMD terminal' however you should update the data fitted to the train based on your objectives.
 
 
 # Usage
