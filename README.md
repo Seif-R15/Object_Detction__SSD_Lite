@@ -21,12 +21,13 @@ This project provides a simple and efficient way to perform object detection usi
 - PySerial (Optional)
 - Firebase_admin(Optional)
 
-# Training your own model
+# To Train your own model
 
 For training your own model you can run the `SSD_Train.py` on `Spyder` or on the `CMD terminal` however you should update the data fitted to the train based on your objectives.
+The output of this training will be a `.pth` file which represents the trained weights  
 
 
-# Usage
+# To use a pre-trained model
 
 To run the code, use the following command on CMD or Anaconda Prompt:
 
