@@ -26,7 +26,7 @@ This project provides a simple and efficient way to perform object detection usi
 For training your own model you can run the `SSD_Train.py` on `Spyder` or on the `CMD terminal` however you should update the data fitted to the train based on your objectives.
 The output of this training will be a `.pth` file which represents the trained weights
 
- ![BI Dashboard](Checking_that the_model_is_being_trained.png)
+ ![BI Dashboard](Checking_thatg_the_model_is_being_trained.png)
 
 
 # To use a pre-trained model
