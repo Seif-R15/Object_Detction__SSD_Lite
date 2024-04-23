@@ -28,6 +28,8 @@ The output of this training will be a `.pth` file which represents the trained w
 
  ![BI Dashboard](Checking_that_the_model_is_being_trained.png)
 
+ - To check if your model is being trained you have to see this sentence statement `Training SSD on VOC0712 `
+
 
 # To use a pre-trained model
 
